@@ -1,0 +1,15 @@
+.createNewCompany{
+    width: fit-content;
+}
+.content{
+    height: 71vh;
+}
+
+.buttomde{
+    display: flex;
+    gap: 5px;
+}
+
+.imglogo img{
+    width: 50px;
+}
